@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+hi there! this is 12-part blog series where i explain in detail, everything i've learnt in deep learning so far. we will start from basics and build things up step by step. its not going to be a lame surface-level theoretical blog, but instead a in-depth explanation with the math to back it all up..
