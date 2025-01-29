@@ -1,4 +1,4 @@
-hi there! this is 12-part blog series where i explain in detail, everything i've learnt in deep learning so far. 
+hi there! this is 20+ part blog series where i explain in detail, everything i've learnt in deep learning so far. 
 
 we will start from basics and build things up step by step. 
 
